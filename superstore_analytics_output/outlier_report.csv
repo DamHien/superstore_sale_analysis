@@ -1,0 +1,15 @@
+Column,Lower_Bound,Upper_Bound,Outliers_Count,Outlier_Percentage
+discount,-0.3,0.5,4172,8.13
+column,1.0,1.0,0,0.0
+profit,-55.22,92.02,9755,19.02
+quantity,-2.5,9.5,877,1.71
+sales,-299.0,581.0,5655,11.03
+shipping_cost,-30.15,57.21,5909,11.52
+order_year,2009.0,2017.0,0,0.0
+order_month,-2.5,17.5,0,0.0
+order_quarter,-1.0,7.0,0,0.0
+order_day_of_week,-3.5,8.5,0,0.0
+is_weekend,0.0,0.0,5570,10.86
+order_week,-16.0,80.0,0,0.0
+profit_margin,-49.96,83.28,5651,11.02
+sales_per_unit,-93.0,187.0,5023,9.79

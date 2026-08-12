@@ -1,0 +1,16 @@
+{
+  "dataset_name": "Superstore Analytics Dataset",
+  "created_date": "2026-04-23T14:36:19.299507",
+  "total_rows": 51290,
+  "total_columns": 32,
+  "numeric_columns": 14,
+  "categorical_columns": 15,
+  "date_columns": 2,
+  "total_sales_usd": 12642905.0,
+  "total_profit_usd": 1467457.2912800002,
+  "profit_margin_percent": 11.606962887722403,
+  "total_orders": 25035,
+  "total_customers": 4873,
+  "total_products": 10292,
+  "file_size_mb": 13.409443
+}

@@ -1,0 +1,33 @@
+Column,Data_Type,Unique_Values,Null_Count,Sample_Values
+category,object,3,0,Office Supplies
+city,object,3636,0,Los Angeles
+country,object,147,0,United States
+customer_id,object,4873,0,LS-172304
+customer_name,object,795,0,Lycoris Saunders
+discount,float64,27,0,0.0
+market,object,7,0,Us
+column,int64,1,0,1
+order_date,datetime64[ns],1430,0,2011-01-07 00:00:00
+order_id,object,25035,0,CA-2011-130813
+order_priority,object,4,0,High
+product_id,object,10292,0,OFF-PA-10002005
+product_name,object,3788,0,Xerox 225
+profit,float64,24575,0,9.3312
+quantity,int64,14,0,3
+region,object,13,0,West
+sales,int64,2246,0,19
+segment,object,3,0,Consumer
+ship_date,datetime64[ns],1464,0,2011-01-09 00:00:00
+ship_mode,object,4,0,Second Class
+shipping_cost,float64,16877,0,4.37
+state,object,1094,0,California
+sub_category,object,17,0,Paper
+order_year,int32,4,0,2011
+order_month,int32,12,0,1
+order_quarter,int32,4,0,1
+order_day_of_week,int32,7,0,4
+is_weekend,int64,2,0,0
+order_week,UInt32,52,0,1
+discount_bin,category,5,0,0-5%
+profit_margin,float64,10579,0,49.11
+sales_per_unit,float64,5299,0,6.33
