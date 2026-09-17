@@ -37,6 +37,12 @@ dự án phân tích dữ liệu bán hàng của Superstore (Mỹ), tập trung
 - Ghép phân khúc với dữ liệu bang để xác định phân bố khách hàng VIP và khách có nguy cơ rời bỏ theo khu vực địa lý
 **Output:** `customer_rfm_segments.csv` — bảng phân khúc khách hàng kèm chỉ số RFM và bang cư trú.
 
+## Stage 3: logistics & Operational Analysis by Region
+### Ship Mode theo vùng
+- Phân tích tỷ lệ sử dụng các hình thức giao hàng (Standard, Second class, same day) theo từng Region
+### Thời gian giao hàng theo hàng
+- Tính thời gian giao trung biinhf Standard class
+
 
 # phân khúc khách hàng RFM
 phân loại các khách hoàng mua thường xuyên, mua gần đây, mua nhiều tiền hay là những khách hàng ít mua, mua 1 lần:
